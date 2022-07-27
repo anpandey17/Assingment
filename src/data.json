@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "title": "WebstylePress",
+        "content": "And here we get data",
+        "tech": [
+            {
+                "name" : "Javascript"
+            }
+        ]
+
+    },
+    {
+        "id": 2,
+        "title": "WSP",
+        "content": "It was tricky",
+        "tech": [
+            {
+                "name" : "ReactJS"
+            }
+        ]
+
+
+    },
+    {
+        "id": 3,
+        "title": "Records",
+        "content": "But finally done it",
+        "tech": [
+            {
+                "name" : "NodeJS"
+            }
+        ]
+
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
